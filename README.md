@@ -1,1 +1,1 @@
-# goreleaser_tesst
+# goreleaser_test
